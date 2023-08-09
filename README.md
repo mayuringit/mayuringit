@@ -1,58 +1,67 @@
-<h1 align="center">Hi 👋, I'm Mayur Pande</h1>
-- 🔭 I’m currently looking for a opportunity in IT industry as software developer.
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-- Proficient **Frontend Developer**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Backend Technologies** with Node.js, firebase, Java and much more...
+🎓 I am Mayur Pande, a **Front End Web Developer** (specializing in **React Applications**) graduated in 2021.
 
-- Entry Level Full Stack Developer.
+👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **HTML**, **CSS**, **JavaScript**, **React.js**, **Material-UI**, **BootStrap**, **MySQL**.
+i have recently completed a **Full Stack Development** course in associate with **Generation India**, primarily focusing on **Core Java**, **Advance Java(J2EE)**, **Spring**, **SpringBoot**, **REST API** along with **Frontend development**.
 
-- 📫 How to reach me **Mayurpande57@gmail.com**
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **sketching** and **Nature Wandering**
 
-- 📄 Know about my experiences [https://github.com/mayuringit/My-Portfolio-Web](https://github.com/mayuringit/My-Portfolio-Web)
+📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are which are influencing me now are **The 7 Habits of Highly Effective People** by _Stephen_R_Covey_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
-- I may get lost in coding...please find me !!! on LinkedIn **https://www.linkedin.com/in/mayur-pande-778a44235! on LinkedIn**
+## 🏅 Achievements
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayur pande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur pande" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
- <div >
-    <ul>
-      <h2>Front-end Technologies:</h2>
-          <li >HTML </li>
-          <li> CSS</li>
-          <li>JavaScript</li>
-          <li>React JS</li>
-          <li>Bootstrap</li>
-         <li>Next.JS</li>
-         <li>Sass</li>
-         <li>Tailwind CSS</li>
-         <h2>Backend Technologies:</h2>
-          <li>Node Js</li>
-          <li>Core Java</li>
-          <li>Advance Java</li>
-          <li>OOPs</li>
-          <li>Spring Boot (J2EE, Standard)</li>
-          <li>Spring MVC</li>
-          <li>Servlets</li>
-          <li>REST API</li>
-          <li>JPA</li>
-          <li>JDBC</li>
-          <h2>IDE’s:</h2>
-          <li>Visual Studio Code</li>
-          <li>Eclipse</li>
-          <h2>Version Control System:</h2>
-          <li>GitHub</li>
-         <li>Git</li>
-         <li>GitLab</li>
-         <h2>Databases:</h2>
-          <li>MySQL</li>
-          <h2>Operating System:</h2>
-          <li>Windows</li>
-     <li>Linux</li>
-    </ul>
-      </div>
-     
+-   📝 **Full Stack Developer** Associate with _Generation India_ (Feb 2023 - June 2023)
+-   🏆 **Data Associate** Associate with _Symbiosys skills and professional University_ (Feb 2022 - June 2022)
+-   🏆 Completed a large number of certifications Associate with _Codecademy_ (Feb 2023 - June 2023)![java](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+
+## 🛠️ Skills
+
+## Languages
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+
+## **Front-End Development**
+
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+## **Back-End Development**
+
+![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+## **Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+## **Version Control System**
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## 🖥️ **Workspace Setup**
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+## 🔗**Links**
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://github.com/mayuringit/My-Portfolio-Web)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayur-pande-778a44235)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mayuringit)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Mayurpande57@gmail.com)
