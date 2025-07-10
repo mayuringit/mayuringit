@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **MAYUR PANDE**
+# 👋 Hi there! I'm **MAYUR PANDE** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mayur-pande-778a44235))[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayurpande57@gmail.com)
 
 [![Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-blue)](https://github.com/mayuringit)
 [![Front-End Developer](https://img.shields.io/badge/Focus-Front--End%20Developer-brightgreen)](https://github.com/mayuringit)
