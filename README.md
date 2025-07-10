@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 👩‍💻 **UI-focused Software Engineer** with hands-on experience in building **accessible**, **responsive**, and **modular interfaces** using **ReactJS**.  
-⚙️ Proven ability to lead **complex UI workflows**, integrate **APIs**, and collaborate across **Agile teams** to deliver **production-grade features**.  
+⚙️ Proven ability to lead **complex UI workflows**, integrate **APIs**, collaborate across **Agile teams** to deliver **production-grade features**.  
 🚀 Actively expanding **backend knowledge** to transition toward **full-stack development**.
 
 ---
