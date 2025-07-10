@@ -1,37 +1,56 @@
-# 👋 Hi there! I'm **Mayur**
+# 👋 Hi there! I'm **MAYUR PANDE**
 
 [![Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-blue)](https://github.com/mayuringit)
 [![Front-End Developer](https://img.shields.io/badge/Focus-Front--End%20Developer-brightgreen)](https://github.com/mayuringit)
-[![Learning Full-Stack](https://img.shields.io/badge/Track-Full--Stack%20In%20Progress-yellow)](https://github.com/mayuringit)
+[![Learning Full-Stack](https://img.shields.io/badge/Track-Full--Stack%20Developer-yellow)](https://github.com/mayuringit)
+
+---
+🎨 ***“A well-crafted UI speaks louder than words.”***
 
 ---
 
 ## 🧑‍💻 About Me
-
-I'm a **Software Engineer** specializing in front-end development with **ReactJS**, **JavaScript**, and clean, responsive UI design. I enjoy crafting intuitive user experiences and am now actively learning **Node.js**, **Express.js**, and **MySQL** to grow into a full-stack developer.
-
-My work is defined by reusable code, scalable architecture, and cross-functional team collaboration.
+👩‍💻 **UI-focused Software Engineer** with hands-on experience in building **accessible**, **responsive**, and **modular interfaces** using **ReactJS**.  
+⚙️ Proven ability to lead **complex UI workflows**, integrate **APIs**, and collaborate across **Agile teams** to deliver **production-grade features**.  
+🚀 Actively expanding **backend knowledge** to transition toward **full-stack development**.
 
 ---
 
 ## 🛠️ My Tech Stack
 
 ### 💻 Languages & Frameworks  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>Redux</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman (API)</td>
+  </tr>
+</table>
 
 ### 🛢️ Tools & Platforms  
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=bitbucket" width="40"/><br/>Bitbucket</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
+    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
+  </tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+</p>
+
+
 
 ---
 
@@ -41,13 +60,14 @@ My work is defined by reusable code, scalable architecture, and cross-functional
 **Quolam Business Solutions, Pune**  
 _Sep 2023 – Present_
 
-- Developed & maintained survey and form automation modules using **React.js** and legacy **Knockout.js**, improving scalability and UI structure.
-- Implemented dynamic forms, checklist UIs, and validation workflows using React Hooks and conditional rendering.
-- Designed structured PDF reports by mapping form data to HTML/CSS templates.
-- Built responsive layouts using Flexbox, Grid, and media queries for mobile compatibility.
-- Led UI development for **Emergency Response System (ERS)** module for IRCLASS.
-- Owned key modules like **Periodical Survey (95%)** and **SSA (live)**, with a focus on reusable components and performance.
-- Contributed to continuous UI optimization across multiple modules.
+- Designed and developed **scalable UI components** for core modules like **Periodical Survey** and **ERS** with complex workflows, validations, and dynamic rendering using **ReactJS**. 
+- Created **reusable component libraries** and managed state with **React Hooks** and **Redux/Context API** to improve reusability and maintainability.  
+- Integrated front-end with **RESTful APIs** using **Axios**, ensuring smooth asynchronous data handling and secure communication.  
+- Built **mobile-responsive**, **cross-browser-compatible layouts** using **Flexbox**, **Grid**, and **media queries**, adhering to **WCAG accessibility standards**.  
+- Implemented **PDF report generation** via **HTML/CSS templates** based on user-driven form inputs.  
+- Collaborated in **Agile processes** including sprint planning, daily stand-ups, and retrospectives with **QA**, **DevOps**, and design teams to deliver on time.  
+- Conducted **code reviews** and optimized **UI performance** to maintain high code quality.
+
 
 ---
 
