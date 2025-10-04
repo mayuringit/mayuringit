@@ -10,29 +10,83 @@
 ---
 
 ## 🧑‍💻 About Me
-👩‍💻 **UI-focused Software Engineer** with hands-on experience in building **accessible**, **responsive**, and **modular interfaces** using **ReactJS**.  
-⚙️ Proven ability to lead **complex UI workflows**, integrate **APIs**, collaborate across **Agile teams** to deliver **production-grade features**.  
-🚀 Actively expanding **backend knowledge** to transition toward **full-stack development**.
+**Frontend-focused Full Stack Developer** with 2+ years of experience building scalable web applications using React.js, Node.js, and SQL. Strong foundation in UI development, REST API integration, and modular architecture. Proficient in agile methodologies and version control.
+
+Beyond coding, I’m an enthusiastic learner who believes in continuous growth and collaboration. My goal is to create seamless user experiences while writing clean and maintainable code.
 
 ---
 
 ## 🛠️ My Tech Stack
-
-### 💻 Languages & Frameworks  
-<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+### 💻 Frontend
+<table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid blue;">
   <tr>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>Redux</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
-    <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman (API)</td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>
+      JavaScript (ES6+)
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=react" width="40"/>
+      <div>ReactJS</div>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>
+      HTML5
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>
+      CSS3
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>
+      Tailwind CSS
+    </td>
   </tr>
 </table>
+
+
+### 🧠 State Management
+- <img src="https://skillicons.dev/icons?i=redux" width="20" style="vertical-align:middle;"/> Redux  
+- <img src="https://skillicons.dev/icons?i=react" width="20" style="vertical-align:middle;"/> Context API
+- <img src="https://skillicons.dev/icons?i=react" width="20" style="vertical-align:middle;"/> React Hooks
+
+### 🎨 Styling & Layout
+- <img src="https://skillicons.dev/icons?i=bootstrap" width="20" style="vertical-align:middle;"/> Bootstrap  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" style="vertical-align:middle;"/> Flexbox  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" style="vertical-align:middle;"/> CSS Grid  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" style="vertical-align:middle;"/> Media Queries
+
+### ⚙️ Backend
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman
+    </td>
+  </tr>
+</table>
+
+- RESTful APIs  
+- Axios  
+- Webhooks  
+- Microservices  
+- Cron Jobs
+
+### 🗄️ Database
+- <img src="https://skillicons.dev/icons?i=mongodb" width="20" style="vertical-align:middle;"/> MongoDB  
+- <img src="https://skillicons.dev/icons?i=mysql" width="20" style="vertical-align:middle;"/> MySQL  
+- <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/sequelize/sequelize.png" width="20" style="vertical-align:middle;"/> Sequelize
+
+### 🛠️ Tools & Version Control
+- Git  
+- GitHub  
+- Bitbucket  
+- Agile Scrum
+
 
 ### 🛢️ Tools & Platforms  
 <table border="0" cellpadding="0" cellspacing="0" style="border:none;">
@@ -57,16 +111,22 @@
 ## 💼 Work Experience
 
 ### 🔹 Software Engineer  
-**Quolam Business Solutions, Pune**  
+**Quolam Business Solutions Pvt. Ltd., Pune**  
 _Sep 2023 – Present_
 
-- Designed and developed **scalable UI components** for core modules like **Periodical Survey** and **ERS** with complex workflows, validations, and dynamic rendering using **ReactJS**. 
-- Created **reusable component libraries** and managed state with **React Hooks** and **Redux/Context API** to improve reusability and maintainability.  
-- Integrated front-end with **RESTful APIs** using **Axios**, ensuring smooth asynchronous data handling and secure communication.  
-- Built **mobile-responsive**, **cross-browser-compatible layouts** using **Flexbox**, **Grid**, and **media queries**, adhering to **WCAG accessibility standards**.  
-- Implemented **PDF report generation** via **HTML/CSS templates** based on user-driven form inputs.  
-- Collaborated in **Agile processes** including sprint planning, daily stand-ups, and retrospectives with **QA**, **DevOps**, and design teams to deliver on time.  
-- Conducted **code reviews** and optimized **UI performance** to maintain high code quality.
+#### 🧾 Notable (Aug 2025 – Present)
+- Maintaining and enhancing **React.js** based *Notable*, a platform for brand proofing and delivery management.  
+- Built **webhook configuration UI**, integrated backend logic using **Node.js**, and developed **secure, modular APIs** with **MongoDB**.  
+- Designed and scheduled **cron jobs** for background automation.  
+- Contributed to **CI workflows** and version control via **Bitbucket** in an **Agile** environment.  
+- Gaining hands-on experience with **AWS** and cloud infrastructure fundamentals.
+
+#### 📋 IRClass – Indian Register of Shipping (Sep 2023 – Present)
+- Enhanced multiple **React.js** UI screens with new features and bug fixes.  
+- Developed **responsive forms** and custom reports using **HTML**, **CSS**, and **JavaScript**, based on client requirements.  
+- Implemented dynamic data handling and **conditional logic** for complex form modules.  
+- Collaborated using **Git**, **Bitbucket**, and **Agile processes** for smooth, cross-team development.  
+- Maintained code quality and reusability using modular patterns and best practices.
 
 
 ---
