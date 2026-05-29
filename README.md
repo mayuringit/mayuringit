@@ -10,9 +10,10 @@
 ---
 
 ## 🧑‍💻 About Me
-**Frontend-focused Full Stack Developer** with 2+ years of experience building scalable web applications using React.js, Node.js, and SQL. Strong foundation in UI development, REST API integration, and modular architecture. Proficient in agile methodologies and version control.
+I am a **Software Developer** with nearly 3 years of experience specializing in React.js, frontend application development, REST API integration, and production support. I have worked on enterprise-grade SaaS and reporting platforms, where I contributed to scalable UI development, troubleshooting, debugging, and continuous application improvements in Agile environments. My experience in delivering stable, high-quality software solutions aligns strongly with the Application Support Engineer role, and I am excited to contribute my technical and problem-solving skills to your team.
 
-Beyond coding, I’m an enthusiastic learner who believes in continuous growth and collaboration. My goal is to create seamless user experiences while writing clean and maintainable code.
+Portfolio: https://mayuringit.github.io/mayur-pande-portfolio/
+GitHub: https://github.com/mayuringit
 
 ---
 
@@ -148,10 +149,29 @@ _Savitribai Phule Pune University (SPPU)_
 ---
 
 ## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:mayurpande57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mayur%20Pande-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mayur-pande-778a44235))
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayurpande57@gmail.com)
+<p align="center">
+  <a href="mailto:mayurpande57@gmail.com">
+    mayurpande57@gmail.com
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayur-pande-778a44235">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayur%20Pande-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayur-pande-778a44235">
+    Visit my LinkedIn Profile
+  </a>
+</p>
+              
 
 ---
 
